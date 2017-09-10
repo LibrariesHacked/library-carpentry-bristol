@@ -1,0 +1,17 @@
+{
+    "title": "Library Carpentry Introduction to Data: Bristol",
+    "description": "",
+    "author": "Dave Rowe",
+    "plugins": ["anchors", "swimlanes-io"],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        },
+        "ribbon": {
+            "color": "orange",
+            "text": "Modify this page",
+            "url": "https://github.com/librarieshacked/library-carpentry-bristol",
+            "appendFilepath": true
+        }
+    }
+}
