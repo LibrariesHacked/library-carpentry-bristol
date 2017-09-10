@@ -4,8 +4,8 @@
 Trainers
 --------
 
-- Dave
-- Owen
+- Dave Rowe: Introduction to Data
+- Owen Stephens: OpenRefine
 
 Schedule
 --------
@@ -21,8 +21,6 @@ Schedule
 | 15:00pm | Coffee |
 | 15:15pm | OpenRefine part 2 |
 | 17:00pm | Finish |
-
-**WiFi**:
 
 **Breaks**: We can take a break whenever anyone needs to.  There are a lot of different sections, so there will always be oportunities to get some air.
 
