@@ -21,13 +21,20 @@ Objectives
 Task
 ----
 
-We will be separating into groups of 4-5 per table.
+This group task is an opportunity for you to get help understanding terms, phrases, or ideas around code or software development in libraries that you might have come across and perhaps feel you should know better. This is a safe place to ask these kinds of questions, and to get a firmer grasp on the concepts we might be discussing later.
 
-### Part A: 20 minutes
+Depending on numbers and layout, we will be separating into groups of 4-6.
 
-Taking the following set of terms and ideas, work together to explain what each one means (note: use both each other and the internet as a resource!).  Try to only spend 2 mins (max) on each and don't worry about covering them all.  Make a note of those your group resolves and those you are still struggling with.
+### Part A: 25 minutes
 
-Use flipchart paper to write down each term, with thoughts on the definition around each one.
+- Start by getting into pairs.
+- Talk for 3 minutes (your instructor will be timing you!) on any terms, phrases, or ideas around code or software development in libraries that you’ve come across and perhaps feel you should know better.
+- Get into groups of 4-6.
+- Make a list of all the problematic terms, phrases, and ideas each pair came up. Retain duplicates. Then - taking common words as a starting point - spend 15 minutes working together to try to explain what the terms, phrases, or ideas means (note: use both each other and the internet as a resource!). Make a note of those your group resolves and those you are still struggling with.
+
+The instructor will collate these on a whiteboard and facilitate a discussion about what we will cover today and where you can go for help on those things we won’t cover.
+
+If stuck for ideas, you could choose from the following set of terms to trigger discussions:
 
 | Terms | Terms | Terms |
 | ----- | ----- | ----- |
@@ -39,9 +46,7 @@ Use flipchart paper to write down each term, with thoughts on the definition aro
 
 ### B: Feedback 10 mins
 
-Report back on a single term discussed by your group. 1 minute each.
-
-We'll go through definitions of each.
+Each group then reports back on one issue resolved by their group and one issue not by their group.
 
 Key points
 ----------
