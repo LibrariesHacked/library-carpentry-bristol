@@ -14,7 +14,19 @@ This Library Carpentry lesson introduces librarians to working with data. At the
 Schedule
 --------
 
-
+| Time | Description |
+| ---- | ----------- |
+| 10:00am | Introductions |
+| 10:05am | Data introduction |
+| 10:10am | Group Exercise: Jargon busting |
+| 10:30am | Group Feedback |
+| 10:40am | Teaching: Foundations part 1 |
+| 11:00am | Coffee |
+| 11:15am | Teaching: Foundations part 2 |
+| 11:30am | Teaching: Regular Expressions |
+| 11:45am | Exercises: Regular Expressions and Feedback |
+| 12:30pm | Feedback |
+| 13:00pm | Lunch and OpenRefine installation workshop |
 
 Data
 ----

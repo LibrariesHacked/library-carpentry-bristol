@@ -1,16 +1,16 @@
 Exercise Answers
 ================
 
-Answers include methods for Microsoft Excel and Google Sheets. We're not specifically advocating for either of these, but they are commonly used tools and possibly represent a work/home split (work - often Microsoft Office, Home - Google Docs).  Other spreadsheet software will have very similar functionality but will differ in some respects.
+Answers include methods for Microsoft Excel and Google Sheets. I'm not specifically advocating for either of these, but they are commonly used tools and possibly represent a work/home split (work - often Microsoft Office, Home - Google Docs). Other spreadsheet software will have very similar functionality but will differ in some respects.
 
 Possible methods
 ----------------
 
-There are no absolute 'correct' ways of going about doing these tasks.  These are possible methods.
+There are no absolute 'correct' ways of going about doing these tasks. These are possible methods.
 
 ### A1. Usage. Which library has had the highest number of issues since 2008.  How many?
 
-One way of approaching this is to use a Pivot table to group the data by branch.  Then display a sum of issues for each branch.
+One way of approaching this is to use a Pivot table to group the data by branch. Then display a sum of issues for each branch.
 
 #### Excel
 

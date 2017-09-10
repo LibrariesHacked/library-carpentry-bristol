@@ -15,19 +15,11 @@ First, identify people on your table who can help: you will all be working from 
 
 Second, there are helpers on hand to help if those around you can’t. You should all have access to coloured sticky notes: attaching a red sticky note to your laptop indicates that you need help (it might also alert the attention of someone around you!). So, please use them.
 
-Third, each part of Library Carpentry may require you to install software or download data. Breaks are a good time to ask for help.
+Third, Library Carpentry may require you to install software or download data. Breaks are a good time to ask for help. We have specific time set aside for this in the lunch break to install Open Refine for those who may need to.
 
 Fourth, we encourage you to finish up or repeat tasks after class time: if you run into any problems, please report them on the relevant Github issues page (see the bottom of each lesson page for a link).
-Most Library Carpentry lessons will require you to follow along whilst your instructor demonstrates a software tool or approach. Sometimes you will fall behind. If you do, raise your red sticky note and ask a helper if we can slow the pace. Your issue may be specific to your computer. Computers are stupid, can frustrate, and as you all have different machines it can be tricky to resolve problems. Please be patient, particularly if your issue is local. Stepping outside and taking a gulp of fresh air always helps.
 
-Me
---
-
-I work part time for Libraries West in the systems team in Bridgwater. That involves:
-
-- extracting data from our Library Management System: Sirsi Dynix Symphony.
-
-We're looking at steadily becoming more data-driven 
+Most Library Carpentry lessons will require you to follow along whilst your instructor demonstrates a software tool or approach.
 
 Where to go for help
 --------------------
@@ -41,13 +33,11 @@ We encourage you to finish up or repeat tasks after class timem as well.  These 
 Structure of workshops
 ----------------------
 
-We have structured each of the 3 workshops to include a variety of exercises:
+The modules include a variety of exercises:
 
 - **Teaching**. Usually presentations to listen to. If anything doesn't make sense to you then feel free to interupt so we can clarify.  There are no stupid questions!
-- **Group exercises**.  Chances to work within your groups on diuscussion tasks.  We'll always feedback to the wider group.
+- **Group exercises**.  Chances to work within your groups on discussion tasks.  We'll always feedback to the wider group.
 - **Exercises**.  Individual exercises.  This is in the sense that you are likely to be completing tasks on your own devices, but we encourage using those around you to collaborate.  We'll also come round and visit each group.
-
-The workshops tend to include a group exercise to act as an icebreaker, and establish current knowledge, then a presentation, and then the exercises.
 
 Sometimes you will fall behind. If you do, alert us and we can slow the pace. Your issue may be specific to your computer. Computers are stupid, can frustrate, and as you all have different machines it can be tricky to resolve problems. Please be patient, particularly if your issue is local. Stepping outside and taking a gulp of fresh air always helps.
 
