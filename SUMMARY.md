@@ -12,5 +12,5 @@
 * [Teaching. Foundations](introduction-to-data/teaching-foundations.md)
 * [Teaching. Regular Expressions](introduction-to-data/teaching-regularexpressions.md)
 * [Exercise. Regular Expressions](introduction-to-data/exercise-regularexpressions.md)
-* [Optional Exercise. Working with data](introduction-to-data/exercise-working-with-data.md)
-* [Optional Answers. Working with data](introduction-to-data/answers.md)
+* [Optional Exercise. Working with data](introduction-to-data/exercise-spreadsheets.md)
+* [Optional Answers. Working with data](introduction-to-data/answers-spreadsheets.md)

@@ -43,7 +43,15 @@ However, once you know you'll need to repeat a task, you have a compelling reaso
 
 The report is pitched at a real world relevance level, and in it Andromeda describes scenarios library professionals told her about where learning a little programming, usually learning ad-hoc, had made a difference to their work, to the work of their colleagues, and to the work of their library.
 
-Instructor: show some of these examples.
+Main lessons:
+
+- **Borrow, Borrow, and Borrow again.** This is a mainstay of programming and a practice common to all skill levels, from professional programmers to people like us hacking around in libraries;
+- **The correct language to learn is the one that works in your local context.** There truly isn’t a best language, just languages with different strengths and weaknesses, all of which incorporate the same fundamental principles;
+- **Consider the role of programming in professional development.** That is both yours and of those you manage;
+Knowing (even a little) code helps you evaluate projects that use code. Programming can seem alien. Knowing some code makes you better at judging the quality of software development or planning activity that include software development
+- **Automate to make the time to do something else!** Taking the time to gather together even the most simple programming skills can save time to do more interesting stuff! (even if often that more interesting stuff is learning more programming skills …)
+
+Why Automate?: see [Geeks and repetitive tasks image](https://pbs.twimg.com/media/CKGi8bpW8AQPzOr.png).
 
 Keyboard shortcuts are your friend
 ----------------------------------
